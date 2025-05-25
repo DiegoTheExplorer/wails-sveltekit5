@@ -1,0 +1,7 @@
+{
+  "name": "Wails with Sveltekit 5 template",
+  "shortname": "wails-sveltekit5-template",
+  "author": "",
+  "description": "Template for a Wails project with a statically built Sveltekit 5 project as the frontend",
+  "helpurl": "None rn"
+}
